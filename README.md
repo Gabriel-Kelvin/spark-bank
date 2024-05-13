@@ -14,7 +14,7 @@ This repository contains the source code for the Sparks Bank website, a simple w
 ### 1. Clone the repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Gabriel-Kelvin/spark-bank
 ```
 
 ### 2. Set up a web server environment:
